@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Wisata Kebumen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Wisata Kebumen</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tentang">Erwin Aji Nugroho adalah seorang mahasiswa program studi Teknik Informatika di UIN Sunan
+        Kalijaga Yogyakarta. Selain ngoding, Erwin juga memiliki hobi bermain game online.
+    </string>
+    <string name="penjelasan">Kebumen adalah sebuah Kabupaten di Provinsi Jawa Tengah.
+        Secara geografis, Kabupaten Kebumen terletak pada 7°27\' - 7°50\' Lintang Selatan dan 109°22\' - 109°50\' Bujur
+        Timur. Bagian selatan Kabupaten Kebumen merupakan dataran rendah, sedangkan pada bagian utara berupa pegunungan
+        dan perbukitan yang merupakan bagian dari rangkaian Pegunungan Serayu Selatan.
+        Sementara itu di barat wilayah Gombong, terdapat Kawasan Karst Gombong Selatan sebuah rangkaian pegunungan kapur
+        yang membujur hingga pantai selatan berarah utara-selatan. Daerah ini memiliki lebih dari seratus gua
+        berstalaktit dan stalagmit. Sementara itu panjang pantai sekira 53 Km yang sebagian besar merupakan pantai
+        dengan fenomena gumuk pasir. Sungai terbesar di Kabupaten Kebumen adalah Sungai Luk Ulo, Sungai Jatinegara,
+        Sungai Karanganyar, Sungai Kretek, Sungai Kedungbener, Sungai Kemit, Sungai Gombong, Sungai Ijo, Sungai
+        Kejawang, dan Kali Medono.
+        Kabupaten Kebumen mempunyai luas wilayah sebesar 158.111, 50 ha atau 1.581, 11 km² dengan kondisi beberapa wilayah merupakan daerah pantai dan pegunungan, namun sebagian besar merupakan dataran rendah.
+
+        Dari luas wilayah Kabupaten Kebumen, tercatat 49.768, 00 hektare atau sekitar 31, 04% sebagai lahan sawah dan 108, 343.50 hektare atau 68.96% sebagai lahan kering.
+        Menurut penggunaannya, sebagian besar lahan sawah beririgasi teknis dan hampir seluruhnya (46, 18%) dapat ditanami dua kali dalam setahun, sebagian lagi berupa sawah tadah hujan (37, 82%) yang di beberapa tempat dapat ditanami dua kali dalam setahun, serta 11, 25% lahan sawah beririgasi setengah teknis dan sederhana.
+        Lahan kering digunakan untuk bangunan seluas 40.985, 00 hektare (37, 73%), tegalan/kebun seluas 33.777, 00 hektare (33, 57%) serta hutan negara seluas 22.861, 00 hektare (21, 08%) dan sisanya digunakan untuk padang penggembalaan, tambak, kolam, tanaman kayu-kayuan, serta lahan yang sementara tidak diusahakan dan tanah lainnya.
+    </string>
+
+    <string name="pantai_menganti">Harga Tiket \t \t \t \t \t \t \t\t: Rp 12000\nJarak Dari Pusat Kota  \t \t: 48 KM
+        \n \n Pantai Menganti merupakan sebuah pantai yang berlokasi di Desa Karangduwur, Kecamatan
+        Ayah, Kabupaten Kebumen, Jawa Tengah. Pantai ini merupakan salah satu pantai terindah di Jawa Tengah. Pasir
+        pantainya yang berwarna putih serta terdapat panorama perbukitan juga tebing karst yang indah.
+    </string>
+    <string name="pantai_ayah">
+        Harga Tiket \t \t \t \t \t \t \t \t: Rp 5000\nJarak Dari Pusat Kota  \t \t: 42 KM \n \n
+        Pantai Logending berada pada daerah pantai selatan pulau Jawa sehingga pemandangan luas
+        Samudera Hindia dapat terlihat dengan jelas. Pantai ini juga merupakan muara dari Sungai Bodo yang memisahkan
+        kabupaten Kebumen dan Cilacap. Pemandangan muara sungai dapat dinikmati dengan fasilitas perahu yang disediakan
+        oleh nelayan dengan tarif sewa tertentu. Selain dibatasi oleh muara Sungai Bodo, panti ayah pada bagian
+        selatannya dibatasi oleh bukit yang berisi pohon jati dan batu-batu besar. Diatas bukit terdapat sebuah rumah
+        dengan pagar pembatas yang dari rumah tersebut dapat melihat laut dan kampung nelayan di sekitar pantai. Pantai
+        logending dapat dikatakan sebagai pantai yang terlengkap di antara pantai-pantai lain di Kebumen karena selain
+        diapit oleh dua bukit atau gunung pantai ini juga menjadi lahan bagi para nelayan.
+    </string>
+    <string name="pantai_suwuk">Harga Tiket \t \t \t \t \t \t \t \t: Rp 5000 \nJarak Dari Pusat Kota  \t \t: 35 KM \n \nWisata di Pantai Suwuk ini pada dasarnya tidak berbeda dengan wisata-wisata pantai di
+        Kabupaten Kebumen. Pemandangan pegunungan disisi barat dengan tiga bukit menjulang berbatasan langsung dengan
+        Samudera Hindia dan Pantai Karangbolong. Jika mengunjungi pantai ini anda akan disuguhkan dengan pemandangan
+        padang pasir hitam pantai yang luas disertai, tanaman pandan, cemara udang dan rerumputan, padang pasir tersebut
+        dapat digunakan pula untuk wisata offroad. Selain itu pemandangan Muara Sungai Telomoyo disebelah barat bisa
+        digunakan untuk memancing. Tak hanya itu di muara tersebut juga disediakan perahu wisata bagi wisatawan yang
+        ingin menyelusuri panorama sepnajang sungai dari hilir ke hulu. Selain itu bibir pantai di pantai ini juga curam
+        dengan kemiringan 35 derajat jadi sedikit betbahaya. Serta pengunjung juga dihimbau untuk tidak berenang karena
+        pantai ini memiliki ombak yang cukup ganas bahkan lebih besar dari ombak di Pantai Parangtritis, Yogyakarta.
+    </string>
+    <string name="benteng_gombong">Harga Tiket \t \t \t \t \t \t \t \t: Rp 25000\nJarak Dari Pusat Kota  \t \t: 22 KM \n \nBenteng Van Der Wijck adalah benteng pertahanan Hindia Belanda yang dibangun pada abad ke 18. Benteng ini terletak di kota Gombong, sekitar 20 km sebelah barat dari Ibukota kabupaten Kebumen, Jawa Tengah, 7 km Barat Kota Karanganyar, atau 100 km dari Yogyakarta.
+        Nama benteng ini diambil dari Van Der Wijck, yang kemungkinan nama komandan pada saat itu. Nama benteng ini terpampang pada pintu sebelah kanan.
+        Benteng ini kadang dihubungkan dengan nama Frans David Cochius (1787-1876), seorang Jenderal yang bertugas di daerah barat Bagelen yang namanya juga diabadikan menjadi nama Benteng Generaal Cochius. Benteng ini merupakan benteng persegi delapan satu-satunya di indonesia.
+    </string>
+    <string name="pentulu_indah">Harga Tiket \t \t \t \t \t \t \t \t: Rp 10000\nJarak Dari Pusat Kota  \t \t: 22 KM \n \nMerupakan Objek Wisata yang terletak di Karangsambung. Bukit PI menawarkan keindahan
+        alam Kebumen yang sangat Indah
+    </string>
+    <string name="goa_jatijajar">Harga Tiket \t \t \t \t \t \t \t \t: Rp 7500
+        \n
+        Jarak Dari Pusat Kota  \t \t: 33 KM \n \nGua Jatijajar adalah sebuah situs geologi yang terbentuk dari proses alamiah, yang
+        terletak di Kabupaten Kebumen, Jawa Tengah. Gua yang keseluruhannya terbentuk dari kapur, ini memiliki panjang
+        250 meter, dari pintu masuk sampai keluar dengan.lebar rata-rata 15 meter, dan tinggi rata-rata 12 meter. Lokasi
+        gua ini berada 50 meter di atas permukaan laut. Gua Jatijajar merupakan salah satu objek pariwisata andalan di
+        Kabupaten Kebumen, selain Waduk Sempor.
+    </string>
+    <string name="goa_barat">Harga Tiket \t \t \t \t \t \t \t \t: Rp 80000\nJarak Dari Pusat Kota  \t \t: 33,5 KM \n \nGua Barat adalah sebuah situs geologi yang terbentuk dari proses alamiah di Kawasan Karst
+        Gombong Selatan yang terletak di Dusun Mandayana, Desa Jatijajar, Kecamatan Ayah, Kabupaten Kebumen, Provinsi
+        Jawa Tengah, Indonesia. Gua yang keseluruhannya terbentuk dari kapur ini memiliki panjang kedalaman yg belum bisa ditentukan , tetapi baru 6,1 km sudah dipetakan. Sehingga tempat wisata ini sudah cukup aman untuk dieksplor.
+    </string>
+    <string name="tugu_lawet">Tugu Lawet berada di simpang empat pusat Kota Kebumen sehingga akan dapat dijumpai dengan
+        mudah. Tugu Lawet dibuat untuk menggambarkan aktivitas serta perjuangan para pengunduh sarang Burung walet di
+        goa-goa pada tebing karang pesisir selatan Kabupaten Kebumen yang penuh tantangan serta risiko.
+    </string>
+    <string name="jwa">Harga Tiket \t \t \t \t \t \t \t \t: Rp 5000\nJarak Dari Pusat Kota  \t \t: 16,5 KM \n \nWisata Alam Jembangan diresmikan pada tahun 2011 oleh Bupati Kebumen yaitu H.Buyar Winarso, S.E, sebagai salah satu destinasi pariwisata di Kebumen . Wisata Alam Jembangan merupakan objek wisata danau atau telaga, dan di bagian ujung telaga ini dimanfaatkan sebagai bendungan air yaitu bendungan Pejengkolan, terusan pintu air bagian timur dari waduk Wadaslintang yang berada di Kabupaten Kebumen.
+        Kawasan objek wisata Jembangan menawarkan objek wisata alam yang dipadukan dengan fasilitas yang kekinian. Objek wisata jembangan memiliki panorama atau pemandangan danau atau telaga yang memiliki warna kehijauan dan dipadukan dengan indahnya hijau pepohonan hutan yang mengelilingi danau atau telaga. Selain itu ada beberapa spot yang cocok untuk melakukan berfoto bagi para kaula muda salah satunya adalah dua buah jembatan yaitu jembatan Gantung dan jembatan waduk Pejengkolan. Letak kedua jembatan ini agak jauh dari kawasan utama telaga Jembangan. Jembatan Gantung terletak di sebelah kiri pintu masuk, sedangkan Jembatan Waduk Pajengkolan terletak di sisi kanan pintu masuk Jembangan. Tetapi tenang saja apabila kalian ingin menikmati kedua spot jembatan tersebut, maka untuk menuju lokasinya, kalian langsung menggunakan fasilitas yang ada yaitu sebuah perahu mesin. Selain itu masih banyak spot atau lokasi yang lebih menarik seperti Kolam untuk pemancingan, Zona outbound, Wahana untuk anak-anak, kebun binatang Jembangan serta fasilitas pendukung lainnya.
+    </string>
+    <string name="sempor">Harga Tiket \t \t \t \t \t \t \t \t: Rp 6500\nJarak Dari Pusat Kota  \t \t: 27,5 KM \n \nWaduk sempor merupakan bendungan pada daerah Sungai Jatinegara atau disebut juga Sungai Sempor dan Sungai Cicingguling yang mengalir dari utara ke selatan di Pegunungan Serayu Selatan dan bermuara di Samudra Hindia. Waduk Sempor terletak 8 km disebelah utara kota Gombong. Waduk sempor berada di ketinggian kurang lebih 30 meter di atas permukaan air laut. Meskipun berada pada wilayah yang dekat dengan pantai, udara di Waduk Sempor tergolong sejuk karena berada pada lokasi perbukitan yang masih alami. Perbukitan di sekeliling Waduk Sempor diisi dengan ribuan pohon pinus. Pemandangan di Waduk Sempor didominasi oleh air di waduk dan pohon-pohon pinus di bukit. Waduk ini juga dapat digunakan sebagai tempat menikmati matahari terbit (sunrise). Pemandangan bebatuan dan suara gemericik air dapat dinikmati di sungai pada sekitaran waduk. Waduk Sempor telah dilengkapi dengan fasilitas untuk bersepeda dan berlar-lari santai untuk para wisatawan. Selain sebagai tempat wisata Waduk Sempor juga cocok digunakan sebagai tempat seminar, rapat kerja ataupun kegiatan sejenis lainnya karena suasana tempat yang tenang
+    </string>
+    <string name="curug">Harga Tiket \t \t \t \t \t \t \t \t: Rp 5000\nJarak Dari Pusat Kota  \t \t: 19 KM \n \nAir Terjun Sindaro atau Curug Sindoro adalah air terjun dengan ketinggian sekira 30 meter yang terletak di Cagar Alam Nasional Geologi Karangsambung. Air Terjun Sindaro mempunyai daya tarik tersendiri, karena lingkungan masih betul-betul alami. Kesunyian juga masih sangat terasa, sebab belum banyak pelancong yang datang menikmati keindahan alamnya sehingga bisa dikatakan masih tersembunyi. Udara di sekitarnya sejuk dan sepanjang jalan menuju ke sana terdapat area perkebunan yang asri. Banyak dijumpai terasering sawah warga yang sangat cantik serta pohon pinus yang rindang. Air Terjun Sindaro memiliki dua undakan air terjun. Terdapat sebuah pohon di antara jeda kedua undakan air terjun. Beberapa ceruk menghiasi dasar Air Terjun Sindaro. Air Terjun Sindaro memang tidak terlalu tinggi namun bisa menampilkan pesona tersendiri. Jika debit air sedang tinggi Air Terjun Sindaro akan memamerkan tirai airnya sehingga tampak glamor. Sebaliknya jika debit air sedang kecil maka air akan lebih mengalir ke beberapa bagian yang lebih rendah. Meski demikian debit air Air Terjun Sindaro akan tetap mengalirkan air meski dimusim kemarau sekalipun.</string>
+</resources>

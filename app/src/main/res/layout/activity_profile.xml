@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img_big"
+                android:layout_margin="20dp"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:text="Tentang Pengembang"
+                android:layout_marginTop="20dp"
+                android:id="@+id/tentang"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tentang"
+                android:layout_marginTop="20dp"
+                android:id="@+id/tentang_penjelasan"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Facebook \t\t: Erwin Aji Nugroho"
+                android:layout_marginTop="20dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Twitter \t\t\t: @erwinaji77n"
+                android:layout_marginTop="7dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Instagram \t: @erwinaji77n"
+                android:layout_marginTop="7dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Github \t\t\t\t: github.com/erwinaji77n"
+                android:layout_marginTop="7dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Steam \t\t\t\t: steamcommunity.com/id/erwinaji77n"
+                android:layout_marginTop="7dp"/>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
